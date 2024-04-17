@@ -5,8 +5,6 @@ This dataset contains information about past loan applicants, including their in
 
 The goal is to build a machine learning model that can analyze this data to predict whether future loan applications should be approved or rejected.
 
-This is a modified version of https://www.kaggle.com/datasets/bhavikjikadara/loan-status-prediction with NaN value added to some of the row cells.
-
 About the loan_data_added_nan.csv file:
 
 Loan_ID: A unique loan ID.
