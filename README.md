@@ -10,15 +10,26 @@ This is a modified version of https://www.kaggle.com/datasets/bhavikjikadara/loa
 About the loan_data_added_nan.csv file:
 
 Loan_ID: A unique loan ID.
+
 Gender: Either male or female.
+
 Married: Weather Married(yes) or Not Marttied(No).
+
 Dependents: Number of persons depending on the client.
+
 Education: Applicant Education(Graduate or Undergraduate).
+
 Self_Employed: Self-employed (Yes/No).
+
 ApplicantIncome: Applicant income.
+
 CoapplicantIncome: Co-applicant income.
+
 LoanAmount: Loan amount in thousands.
+
 Loan_Amount_Term: Terms of the loan in months.
+
 Credit_History: Credit history meets guidelines.
+
 Property_Area: Applicants are living either Urban, Semi-Urban or Rural.
 Loan_Status: Loan approved (Y/N).
